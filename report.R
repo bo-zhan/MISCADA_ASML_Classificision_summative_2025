@@ -13,7 +13,7 @@ library(rpart.plot)
 
 # Data Loading and Exploration
 # Read data
-hotel_data <- read.csv("hotels.csv")
+hotel_data <- read.csv("https://www.louisaslett.com/Courses/MISCADA/hotels.csv")
 
 # Check data structure
 str(hotel_data)
